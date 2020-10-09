@@ -3,7 +3,7 @@ from jetbot import Robot
 import time
 import outsourcing_nechl
 from random import randint as rn
-
+# this is the class with some extra functions which aren't provided by the "Robot()" class of the jetbot
 class NechlBot(Robot):
     def __init__(self, *args, **kwargs):
         """ Initialize the Emobot class
