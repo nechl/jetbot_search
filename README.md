@@ -1,6 +1,6 @@
 # jetbot_search
 
-Please pay attention that you give the JetBot enough place to move around and be sure there are no dangerous situations around, the obstacle avoidance is not perfect and the code is not working live yet.
+Please pay attention that you give the JetBot enough place to move around and be sure there are no dangerous situations around, the obstacle avoidance is not perfect and the **code is not working live yet.**
 
 With this software, the jetbot should be able to search inside a room for a certain object of the [COCO dataset](https://cocodataset.org/#home).
 
