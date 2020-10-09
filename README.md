@@ -1,4 +1,7 @@
 # jetbot_search
+
+Please pay attention that you give the JetBot enough place to move around and be sure there are no dangerous situations around, the obstacle avoidance is not perfect and the code is not working live yet.
+
 With this software, the jetbot should be able to search inside a room for a certain object of the [COCO dataset](https://cocodataset.org/#home).
 
 Whatsoever, the computing power of the jetbot is to little that the jetbot can really drive on its own. Due to the little computing power, the object detection/ obstacle avoidance is not fast enough for the given resolution/ velocity of the robot.
