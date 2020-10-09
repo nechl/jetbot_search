@@ -3,7 +3,7 @@ With this software, the jetbot should be able to search inside a room for a cert
 
 Whatsoever, the computing power of the jetbot is to little that the jetbot can really drive on its own. Due to the little computing power, the object detection/ obstacle avoidance is not fast enough for the given resolution/ velocity of the robot.
 
-To be able to use it, make sure you download the following models and add them in the same folder as the [main file](https://github.com/nechl/jetbot_search/blob/main/stable_detection.ipynb) :
+To be able to use it, make sure you download all the necessary software for the JetBot and the following models and add them in the same folder as the [main file](https://github.com/nechl/jetbot_search/blob/main/stable_detection.ipynb) :
 > [Collision avoidance](https://drive.google.com/file/d/1UsRax8bR3R-e-0-80KfH2zAt-IyRPtnW/view)
 
 > [COCO Dataset/SSD MobileNet V2](https://drive.google.com/file/d/1KjlDMRD8uhgQmQK-nC2CZGHFTbq4qQQH/view)
