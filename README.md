@@ -9,3 +9,5 @@ To be able to use it, make sure you download all the necessary software for the 
 > [COCO Dataset/SSD MobileNet V2](https://drive.google.com/file/d/1KjlDMRD8uhgQmQK-nC2CZGHFTbq4qQQH/view)
 
 Based on the [NVIDIA AI IOT Jetbot Notebooks](https://github.com/NVIDIA-AI-IOT/jetbot)
+
+Improvements are being made in the Search algorithm and the computing power usage
